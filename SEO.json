@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "construction-project-management",
+  "description": "Construction Project Management — Construction Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Construction PMS for BOQ, progress billing, subcontractors, materials, and site diaries. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "construction",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/construction-project-management"
+}
